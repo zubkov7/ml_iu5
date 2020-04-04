@@ -121,7 +121,7 @@
 
     \begin{center}
     \Large Лабораторная работа ((* if 'lab_number' in nb.metadata *))№((( nb.metadata.lab_number )))((* endif *))\\
-    по~дисциплине\\{\LARGE<<Методы машинного обучения>>}\\
+    по~дисциплине\\{\LARGE<<Технологии машинного обучения>>}\\
     на~тему\\{\LARGE<<((( nb_title | escape_latex )))>>}
     \end{center}
 
